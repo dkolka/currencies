@@ -1,0 +1,9 @@
+django
+requests
+django-rest-framework
+bs4
+python-dateutil
+feedparser
+django-environ
+pytest
+pytest-django
